@@ -1,0 +1,46 @@
+﻿body {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Verdana;
+    background-image: url('https://www.freegreatpicture.com/files/147/2728-background-color.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+}
+h4 {
+    font-size: 40px;
+}
+input, .sendEmail {
+    font-size: 20px;
+}
+
+.sendEmail {
+    box-shadow: inset 0px 1px 0px 0px #fbafe3;
+    background: linear-gradient(to bottom, #ff5bb0 5%, #ef027d 100%);
+    background-color: #ff5bb0;
+    border-radius: 6px;
+    border: 1px solid #ee1eb5;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 6px 24px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #c70067;
+}
+    .sendEmail {
+        background: linear-gradient(to bottom, #ef027d 5%, #ff5bb0 100%);
+        background-color: #ef027d;
+    }
+
+    .sendEmail:active {
+        position: relative;
+        top: 1px;
+    }
+
+
