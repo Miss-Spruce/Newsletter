@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iXUons40bpxfmgcBAz+lLK7S0EhgUEWy0MBbsFoPvUTPlNqBnwucTHFZldAZZPcoIAE7rdUDYDr1ptPvQQU+zw==",
+  "dgSpecHash": "gP2wHe620k8fW9Q7d2Uq/285G7ek1waGuMsqqfTbHzd6iK9Bntuh8TPqhs6GdZlidXD3If70mvRqIJ91v1seow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LenaT\\Documents\\GitHub\\Newsletter\\Newsletter\\Newsletter.Infrastructure.API.csproj",
+  "projectFilePath": "C:\\Users\\Lena Therese\\source\\repos\\Newsletter\\Newsletter\\Newsletter.Infrastructure.API.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

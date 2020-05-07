@@ -4831,19 +4831,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LenaT\\.nuget\\packages\\": {}
+    "C:\\Users\\Lena Therese\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LenaT\\Documents\\GitHub\\Newsletter\\Newsletter.UnitTest\\Newsletter.UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\Lena Therese\\source\\repos\\Newsletter\\Newsletter.UnitTest\\Newsletter.UnitTest.csproj",
       "projectName": "Newsletter.UnitTest",
-      "projectPath": "C:\\Users\\LenaT\\Documents\\GitHub\\Newsletter\\Newsletter.UnitTest\\Newsletter.UnitTest.csproj",
-      "packagesPath": "C:\\Users\\LenaT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LenaT\\Documents\\GitHub\\Newsletter\\Newsletter.UnitTest\\obj\\",
+      "projectPath": "C:\\Users\\Lena Therese\\source\\repos\\Newsletter\\Newsletter.UnitTest\\Newsletter.UnitTest.csproj",
+      "packagesPath": "C:\\Users\\Lena Therese\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lena Therese\\source\\repos\\Newsletter\\Newsletter.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\LenaT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lena Therese\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4856,8 +4860,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\LenaT\\Documents\\GitHub\\Newsletter\\Newsletter.Core\\Newsletter.Core.csproj": {
-              "projectPath": "C:\\Users\\LenaT\\Documents\\GitHub\\Newsletter\\Newsletter.Core\\Newsletter.Core.csproj"
+            "C:\\Users\\Lena Therese\\source\\repos\\Newsletter\\Newsletter.Core\\Newsletter.Core.csproj": {
+              "projectPath": "C:\\Users\\Lena Therese\\source\\repos\\Newsletter\\Newsletter.Core\\Newsletter.Core.csproj"
             }
           }
         }
@@ -4903,7 +4907,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

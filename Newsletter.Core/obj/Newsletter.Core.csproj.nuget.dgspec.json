@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LenaT\\Documents\\GitHub\\Newsletter\\Newsletter.Core\\Newsletter.Core.csproj": {}
+    "C:\\Users\\Lena Therese\\source\\repos\\Newsletter\\Newsletter.Core\\Newsletter.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LenaT\\Documents\\GitHub\\Newsletter\\Newsletter.Core\\Newsletter.Core.csproj": {
+    "C:\\Users\\Lena Therese\\source\\repos\\Newsletter\\Newsletter.Core\\Newsletter.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LenaT\\Documents\\GitHub\\Newsletter\\Newsletter.Core\\Newsletter.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Lena Therese\\source\\repos\\Newsletter\\Newsletter.Core\\Newsletter.Core.csproj",
         "projectName": "Newsletter.Core",
-        "projectPath": "C:\\Users\\LenaT\\Documents\\GitHub\\Newsletter\\Newsletter.Core\\Newsletter.Core.csproj",
-        "packagesPath": "C:\\Users\\LenaT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LenaT\\Documents\\GitHub\\Newsletter\\Newsletter.Core\\obj\\",
+        "projectPath": "C:\\Users\\Lena Therese\\source\\repos\\Newsletter\\Newsletter.Core\\Newsletter.Core.csproj",
+        "packagesPath": "C:\\Users\\Lena Therese\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lena Therese\\source\\repos\\Newsletter\\Newsletter.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\LenaT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lena Therese\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

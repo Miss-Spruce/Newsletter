@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Newsletter.Infrastructure.DataAccess/1.0.0": {
+        "dependencies": {
+          "Newsletter.Core": "1.0.0"
+        },
+        "runtime": {
+          "Newsletter.Infrastructure.DataAccess.dll": {}
+        }
+      },
+      "Newsletter.Core/1.0.0": {
+        "runtime": {
+          "Newsletter.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Newsletter.Infrastructure.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newsletter.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

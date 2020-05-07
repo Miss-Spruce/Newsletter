@@ -42,5 +42,9 @@ input, .sendEmail {
         position: relative;
         top: 1px;
     }
+.img {
+    width: 100px;
+    height: auto;
+}
 
 

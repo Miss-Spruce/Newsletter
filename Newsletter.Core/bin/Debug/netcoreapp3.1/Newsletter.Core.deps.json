@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Newsletter.Core/1.0.0": {
+        "runtime": {
+          "Newsletter.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Newsletter.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
