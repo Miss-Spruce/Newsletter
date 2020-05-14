@@ -2,8 +2,8 @@ C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.Core\bin\Debug\netcorea
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.Core\bin\Debug\netcoreapp3.1\Newsletter.Core.dll
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.Core\bin\Debug\netcoreapp3.1\Newsletter.Core.pdb
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.Core\obj\Debug\netcoreapp3.1\Newsletter.Core.csprojAssemblyReference.cache
-C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.Core\obj\Debug\netcoreapp3.1\Newsletter.Core.csproj.CoreCompileInputs.cache
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.Core\obj\Debug\netcoreapp3.1\Newsletter.Core.AssemblyInfoInputs.cache
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.Core\obj\Debug\netcoreapp3.1\Newsletter.Core.AssemblyInfo.cs
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.Core\obj\Debug\netcoreapp3.1\Newsletter.Core.dll
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.Core\obj\Debug\netcoreapp3.1\Newsletter.Core.pdb
+C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.Core\obj\Debug\netcoreapp3.1\Newsletter.Core.csproj.CoreCompileInputs.cache

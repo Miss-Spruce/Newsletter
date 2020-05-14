@@ -505,6 +505,18 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+      "SendGrid/9.14.1": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "9.0.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/SendGrid.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SendGrid.dll": {}
+        }
+      },
       "System.AppContext/4.1.0": {
         "type": "package",
         "dependencies": {
@@ -1284,6 +1296,9 @@
       "Newsletter.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "SendGrid": "9.14.1"
+        },
         "compile": {
           "bin/placeholder/Newsletter.Core.dll": {}
         },
@@ -2024,6 +2039,26 @@
         "lib/netstandard1.0/_._",
         "runtime.native.system.4.3.0.nupkg.sha512",
         "runtime.native.system.nuspec"
+      ]
+    },
+    "SendGrid/9.14.1": {
+      "sha512": "fidg69+CTUCKfVs3I9HhsajJXIHurhqPzcTu/TiQU4dTe4NLDBpMvUWBEbOZFIesulOgnVMiQLm0ycJX17wUeQ==",
+      "type": "package",
+      "path": "sendgrid/9.14.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net452/SendGrid.dll",
+        "lib/net452/SendGrid.pdb",
+        "lib/net452/SendGrid.xml",
+        "lib/netstandard1.3/SendGrid.dll",
+        "lib/netstandard1.3/SendGrid.pdb",
+        "lib/netstandard1.3/SendGrid.xml",
+        "lib/netstandard2.0/SendGrid.dll",
+        "lib/netstandard2.0/SendGrid.pdb",
+        "lib/netstandard2.0/SendGrid.xml",
+        "sendgrid.9.14.1.nupkg.sha512",
+        "sendgrid.nuspec"
       ]
     },
     "System.AppContext/4.1.0": {
@@ -4827,6 +4862,7 @@
       "Moq >= 4.14.1",
       "NUnit3TestAdapter >= 3.15.1",
       "Newsletter.Core >= 1.0.0",
+      "SendGrid >= 9.14.1",
       "nunit >= 3.12.0"
     ]
   },
@@ -4886,6 +4922,10 @@
           "NUnit3TestAdapter": {
             "target": "Package",
             "version": "[3.15.1, )"
+          },
+          "SendGrid": {
+            "target": "Package",
+            "version": "[9.14.1, )"
           },
           "nunit": {
             "target": "Package",

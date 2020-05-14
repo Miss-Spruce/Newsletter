@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "we3jh1G/iCSTrJYboAcvKhX6D35KokfBGIWyDkCb6fO/1kAabfTciTm6Jd+ZnofAor+YfgdH46yvntRc/OS+DA==",
+  "dgSpecHash": "ARjaSiSOdqzEdnkPX2OtuWDPONF1XrNYqP+T/SLpkHvTQUL1yZyRMz7iT52NGqUbNBDTnSXpYHhwdmPztAzHRQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lena Therese\\source\\repos\\Newsletter\\Newsletter.UnitTest\\Newsletter.UnitTest.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "C:\\Users\\Lena Therese\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
     "C:\\Users\\Lena Therese\\.nuget\\packages\\nunit3testadapter\\3.15.1\\nunit3testadapter.3.15.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
+    "C:\\Users\\Lena Therese\\.nuget\\packages\\sendgrid\\9.14.1\\sendgrid.9.14.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",

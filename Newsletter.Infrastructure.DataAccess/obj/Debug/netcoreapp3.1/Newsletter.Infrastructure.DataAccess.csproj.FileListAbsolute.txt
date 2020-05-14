@@ -4,9 +4,9 @@ C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.Infrastructure.DataAcce
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Newsletter.Core.dll
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.Infrastructure.DataAccess\bin\Debug\netcoreapp3.1\Newsletter.Core.pdb
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.DataAccess.csprojAssemblyReference.cache
-C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.DataAccess.AssemblyInfoInputs.cache
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.DataAccess.AssemblyInfo.cs
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.DataAccess.csproj.CopyComplete
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.DataAccess.dll
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.DataAccess.pdb
+C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.Infrastructure.DataAccess\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.DataAccess.csproj.CoreCompileInputs.cache

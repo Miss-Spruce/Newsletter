@@ -8,8 +8,6 @@ C:\Users\Lena Therese\source\repos\Newsletter\Newsletter\bin\Debug\netcoreapp3.1
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.dll
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.pdb
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.csprojAssemblyReference.cache
-C:\Users\Lena Therese\source\repos\Newsletter\Newsletter\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.csproj.CoreCompileInputs.cache
-C:\Users\Lena Therese\source\repos\Newsletter\Newsletter\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.AssemblyInfoInputs.cache
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.AssemblyInfo.cs
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.RazorTargetAssemblyInfo.cache
@@ -23,3 +21,7 @@ C:\Users\Lena Therese\source\repos\Newsletter\Newsletter\bin\Debug\netcoreapp3.1
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\Newsletter.Core.pdb
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\Newsletter.Infrastructure.DataAccess.pdb
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.csproj.CopyComplete
+C:\Users\Lena Therese\source\repos\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lena Therese\source\repos\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\Lena Therese\source\repos\Newsletter\Newsletter\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.csproj.CoreCompileInputs.cache
+C:\Users\Lena Therese\source\repos\Newsletter\Newsletter\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.MvcApplicationPartsAssemblyInfo.cache
