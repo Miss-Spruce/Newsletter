@@ -4,22 +4,31 @@
     <meta charset="utf-8" />
     <link rel="stylesheet" href="style.css">
     <title>Newsletter</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 </head>
-<body>
-<img src="https://aspiregymnasticsclub.org/wp-content/uploads/2019/12/newsletter_header.png" width="600" height="300" />
-<h4>Confirm &amp; Send</h4>
-<div id="emailNewsletter_DefaultContent">
-    <p>After making sure all your content is perfect and looks great in a browser, simply press the send button below.</p>
-    <p>You can also tick the checkbox to send yourself a test first.</p>
-    </br> <hr /> </br>
-    <label class="sendTestMail"><strong>Send a test email?</strong></label>
-    <input type="checkbox" id="testSendEmail_Switch" value="" /></br></br>
-    <input type="yourName" id="enterName" placeholder="Your name here" /> </br> </br>
-    <input type="email" id="testSendEmail_Input" name="testSendEmail_Input" placeholder="Email address" />
-    </br></br> <hr /> </br>
-    <p><button class="sendEmail">Send Newsletter</button></p>
-    </br> </br> </br>
-    <footer>© LENA THERESE</footer>
-</div>
-</body>
-</html>
+            <body>
+                <img src="https://aspiregymnasticsclub.org/wp-content/uploads/2019/12/newsletter_header.png" width="600" height="300" />
+                <h4>Confirm &amp; Send</h4>
+                <div id="emailNewsletter_DefaultContent">
+                    <p>After making sure all your content is perfect and looks great in a browser, simply press the send button below.</p>
+                    <p>You can also tick the checkbox to send yourself a test first.</p>
+        </br> <hr /> </br>
+            <label class="sendTestMail"><strong>Send a test email?</strong></label>
+            <input type="checkbox" id="testSendEmail_Switch" value="" /></br ></br >
+                <input type="yourName" id="enterName" placeholder="Your name here" /> </br > </br >
+                    <input type="email" id="testSendEmail_Input" name="testSendEmail_Input" placeholder="Email address" />
+        </br ></br > <hr /> </br >
+            <p><button class="sendEmail">Send Newsletter</button></p>
+        </br > </br > </br >
+            <footer>© LENA THERESE</footer>
+                    <script>
+                        test();
+
+                        async function subscribe(email) {
+                            let result = await axios.post('/api/subscribe', email);
+                            console.log(result);
+                        }
+                    </script>
+</div >
+</body >
+</html >
