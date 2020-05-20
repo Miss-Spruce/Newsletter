@@ -1,7 +1,6 @@
 ﻿
 using Newsletter.Core.Domain.Model;
 using System.Threading.Tasks;
-using System;
 
 namespace Newsletter.Core.Domain.Service
 {
