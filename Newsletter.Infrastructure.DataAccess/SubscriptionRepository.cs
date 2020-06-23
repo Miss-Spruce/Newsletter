@@ -8,7 +8,8 @@ namespace Newsletter.Core.Domain.Service
 {
     public class SubscriptionRepository : ISubscriptionRepository
     {
-        public Task<bool> Create(Subscription subscription)
+        public int CallCount { get; private set; } = 0;
+        public Task<bool>Create(Subscription subscription)
         {
             string connStr = "";
             var conn = new SqlConnection(connStr);
@@ -18,12 +19,14 @@ namespace Newsletter.Core.Domain.Service
 
         public Task<Subscription> ReadByEmail(string email)
         {
-            throw new NotImplementedException();
+            CallCount++;
+            return Task.FromResult(new Subscription());
         }
 
         public Task<bool> Update(Subscription subscription)
         {
-            throw new NotImplementedException();
+            CallCount++;
+            return Task.FromResult(true);
         }
     }
 }

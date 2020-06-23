@@ -12,6 +12,7 @@
           "Moq": "4.14.1",
           "NUnit3TestAdapter": "3.15.1",
           "Newsletter.Core": "1.0.0",
+          "SendGrid": "9.14.1",
           "NUnit": "3.12.0"
         },
         "runtime": {
@@ -442,6 +443,17 @@
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0",
           "Microsoft.NETCore.Targets": "1.1.0"
+        }
+      },
+      "SendGrid/9.14.1": {
+        "dependencies": {
+          "Newtonsoft.Json": "9.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SendGrid.dll": {
+            "assemblyVersion": "9.14.1.0",
+            "fileVersion": "9.14.1.0"
+          }
         }
       },
       "System.AppContext/4.1.0": {
@@ -906,6 +918,9 @@
         }
       },
       "Newsletter.Core/1.0.0": {
+        "dependencies": {
+          "SendGrid": "9.14.1"
+        },
         "runtime": {
           "Newsletter.Core.dll": {}
         }
@@ -1043,6 +1058,13 @@
       "sha512": "sha512-c/qWt2LieNZIj1jGnVNsE2Kl23Ya2aSTBuXMD6V7k9KWr6l16Tqdwq+hJScEpWER9753NWC8h96PaVNY5Ld7Jw==",
       "path": "runtime.native.system/4.3.0",
       "hashPath": "runtime.native.system.4.3.0.nupkg.sha512"
+    },
+    "SendGrid/9.14.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fidg69+CTUCKfVs3I9HhsajJXIHurhqPzcTu/TiQU4dTe4NLDBpMvUWBEbOZFIesulOgnVMiQLm0ycJX17wUeQ==",
+      "path": "sendgrid/9.14.1",
+      "hashPath": "sendgrid.9.14.1.nupkg.sha512"
     },
     "System.AppContext/4.1.0": {
       "type": "package",

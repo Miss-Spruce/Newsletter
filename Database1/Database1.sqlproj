@@ -58,10 +58,12 @@
     <Folder Include="Properties" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="Registrations.sql" />
-    <Build Include="Subscriptions.sql" />
+    <SqlCmdVariable Include="hey">
+      <DefaultValue>this</DefaultValue>
+      <Value>$(SqlCmdVar__1)</Value>
+    </SqlCmdVariable>
   </ItemGroup>
   <ItemGroup>
-    <RefactorLog Include="Database1.refactorlog" />
+    <Build Include="Registrations.sql" />
   </ItemGroup>
 </Project>

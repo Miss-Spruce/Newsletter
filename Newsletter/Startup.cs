@@ -40,7 +40,6 @@ namespace Newsletter
             options.DefaultFileNames.Add("index.html");
             app.UseDefaultFiles(options);
 
-
             app.UseRouting();
 
             app.UseAuthorization();

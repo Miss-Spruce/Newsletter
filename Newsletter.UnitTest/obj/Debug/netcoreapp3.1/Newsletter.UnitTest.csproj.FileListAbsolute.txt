@@ -177,3 +177,8 @@ C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.UnitTest\obj\Debug\netc
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.UnitTest\obj\Debug\netcoreapp3.1\Newsletter.UnitTest.AssemblyInfo.cs
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.UnitTest\obj\Debug\netcoreapp3.1\Newsletter.UnitTest.csproj.CopyComplete
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.UnitTest\obj\Debug\netcoreapp3.1\Newsletter.UnitTest.genruntimeconfig.cache
+C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.UnitTest\bin\Debug\netcoreapp3.1\Newsletter.UnitTest.pdb
+C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.UnitTest\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.UnitTest\obj\Debug\netcoreapp3.1\Newsletter.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.UnitTest\obj\Debug\netcoreapp3.1\Newsletter.UnitTest.dll
+C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.UnitTest\obj\Debug\netcoreapp3.1\Newsletter.UnitTest.pdb

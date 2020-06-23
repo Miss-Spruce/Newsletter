@@ -10,19 +10,16 @@ namespace Newsletter.Infrastructure.API.Controllers
     public class SubscribeController : ControllerBase
     {
         private readonly SubscriptionService _subscriptionService;
-
-        public SubscribeController(SubscriptionService subscriptionService)
+            public SubscribeController(SubscriptionService subscriptionService)
         {
             _subscriptionService = subscriptionService;
         }
 
         [HttpPost]
-        public async Task<bool> Subscribe(string name, string email)
+        public async Task<bool> Subscribe(string email)
         {
-            var subscription = new Subscription { Name = name, Email = email };
+            var subscription = new Subscription { Email = email };
             return await _subscriptionService.Subscribe(subscription);
-            {
-            }
         }
     }
 }
