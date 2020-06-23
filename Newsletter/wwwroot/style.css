@@ -10,6 +10,12 @@
     background-size: cover;
     color: white;
 }
+h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 h4 {
     font-size: 40px;
 }
@@ -46,5 +52,4 @@ input, .sendEmail {
     width: 100px;
     height: auto;
 }
-
 

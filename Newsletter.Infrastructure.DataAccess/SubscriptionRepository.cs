@@ -1,16 +1,19 @@
-﻿using Newsletter.Core.Domain.Model;
+﻿using Dapper;
+using Newsletter.Core.Domain.Model;
 using System;
-using System.Collections.Generic;
-using System.Text;
+using System.Data.SqlClient;
 using System.Threading.Tasks;
 
 namespace Newsletter.Core.Domain.Service
 {
-    class SubscriptionRepository : ISubscriptionRepository
+    public class SubscriptionRepository : ISubscriptionRepository
     {
-        public Task<bool>Create(Subscription subscription)
+        public Task<bool> Create(Subscription subscription)
         {
-            throw new NotImplementedException();
+            string connStr = "";
+            var conn = new SqlConnection(connStr);
+            conn.ExecuteAsync("INSERT INTO Registrations (Email, Code) VALUES (@Email, @Code)");
+                return Task.FromResult(true);
         }
 
         public Task<Subscription> ReadByEmail(string email)

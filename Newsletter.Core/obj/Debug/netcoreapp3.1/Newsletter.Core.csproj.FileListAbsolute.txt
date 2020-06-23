@@ -7,3 +7,12 @@ C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.Core\obj\Debug\netcorea
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.Core\obj\Debug\netcoreapp3.1\Newsletter.Core.dll
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.Core\obj\Debug\netcoreapp3.1\Newsletter.Core.pdb
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter.Core\obj\Debug\netcoreapp3.1\Newsletter.Core.csproj.CoreCompileInputs.cache
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter.Core\bin\Debug\netcoreapp3.1\Newsletter.Core.deps.json
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter.Core\bin\Debug\netcoreapp3.1\Newsletter.Core.dll
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter.Core\bin\Debug\netcoreapp3.1\Newsletter.Core.pdb
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter.Core\obj\Debug\netcoreapp3.1\Newsletter.Core.csprojAssemblyReference.cache
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter.Core\obj\Debug\netcoreapp3.1\Newsletter.Core.AssemblyInfoInputs.cache
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter.Core\obj\Debug\netcoreapp3.1\Newsletter.Core.AssemblyInfo.cs
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter.Core\obj\Debug\netcoreapp3.1\Newsletter.Core.csproj.CoreCompileInputs.cache
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter.Core\obj\Debug\netcoreapp3.1\Newsletter.Core.dll
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter.Core\obj\Debug\netcoreapp3.1\Newsletter.Core.pdb

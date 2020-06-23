@@ -25,3 +25,37 @@ C:\Users\Lena Therese\source\repos\Newsletter\Newsletter\bin\Debug\netcoreapp3.1
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\SendGrid.dll
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.csproj.CoreCompileInputs.cache
 C:\Users\Lena Therese\source\repos\Newsletter\Newsletter\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\Newsletter.Core.dll
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\Newsletter.Infrastructure.DataAccess.dll
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\Newsletter.Core.pdb
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\Newsletter.Infrastructure.DataAccess.pdb
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.csprojAssemblyReference.cache
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.AssemblyInfoInputs.cache
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.AssemblyInfo.cs
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.csproj.CoreCompileInputs.cache
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.RazorTargetAssemblyInfo.cache
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.csproj.CopyComplete
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.dll
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.pdb
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.exe
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.deps.json
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.runtimeconfig.json
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.runtimeconfig.dev.json
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.dll
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.pdb
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\obj\Debug\netcoreapp3.1\staticwebassets\Newsletter.Infrastructure.API.StaticWebAssets.Manifest.cache
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\obj\Debug\netcoreapp3.1\staticwebassets\Newsletter.Infrastructure.API.StaticWebAssets.xml
+C:\Users\LenaThereseGran\Documents\GitHub\Newsletter\Newsletter\obj\Debug\netcoreapp3.1\Newsletter.Infrastructure.API.genruntimeconfig.cache

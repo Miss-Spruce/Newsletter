@@ -18,16 +18,23 @@
                 <input type="yourName" id="enterName" placeholder="Your name here" /> </br > </br >
                     <input type="email" id="testSendEmail_Input" name="testSendEmail_Input" placeholder="Email address" />
         </br ></br > <hr /> </br >
-            <p><button class="sendEmail">Send Newsletter</button></p>
+            <p><button onclick="sendEmail()" class="sendEmail">Send Newsletter</button></p>
         </br > </br > </br >
             <footer>© LENA THERESE</footer>
                     <script>
+
+                        function sendEmail()
+                            {
+                            window.location = "https://localhost:44356/EmailSent.html"
+                        }
+
                         test();
 
                         async function subscribe(email) {
                             let result = await axios.post('/api/subscribe', email);
                             console.log(result);
                         }
+
                     </script>
 </div >
 </body >
